@@ -128,7 +128,8 @@ def sort_folder(path):
 
 
 def main():
-    if __name__ == '__main__':
+    try:
         s = sys.argv[1]
         sort_folder(s)
-        print("ok")
+    except IndexError:
+        print('Something went wrong(')
