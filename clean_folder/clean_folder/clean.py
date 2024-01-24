@@ -132,4 +132,7 @@ def main():
         s = sys.argv[1]
         sort_folder(s)
     except IndexError:
-        print('Something went wrong(')
+        print('Something went wrong')
+
+if __name__ is "__main__":
+    main()
