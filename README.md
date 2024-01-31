@@ -31,7 +31,7 @@ Replace /path/to/your/folder with the actual path to the folder you want to orga
 ### Features
 Sorts files into folders based on their types (images, videos, documents, music, unknown).\
 Renames files to remove Cyrillic symbols.\
-Provides a list of extensions and files in each category.\
+Provides a list of extensions and files in each category.
 ### Example
 After running the script:
 
