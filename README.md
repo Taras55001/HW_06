@@ -13,18 +13,15 @@ Make sure you have Python installed on your machine. You can download it from [p
 
 ### Installing
 
-1. Clone the repository to your local machine:
+You can install it directly from GitHub:
 
-`git clone https://github.com/Taras55001/HW_06`
+`pip install git+https://github.com/Taras55001/HW_06`
 
-Navigate to the repository folder:
-
-`cd your-repository`
 
 ### Usage
 Run the script by providing the path to the folder you want to sort:
 
-`python script.py /path/to/your/folder`
+`clean-folder /path/to/your/folder`
 
 Replace /path/to/your/folder with the actual path to the folder you want to organize.
 
