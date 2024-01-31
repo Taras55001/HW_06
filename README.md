@@ -15,7 +15,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 
 1. Clone the repository to your local machine:\
 
-`git clone https://github.com/your-username/your-repository.git`
+`git clone https://github.com/Taras55001/HW_06`
 
 Navigate to the repository folder:\
 
