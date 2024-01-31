@@ -33,14 +33,14 @@ Sorts files into folders based on their types (images, videos, documents, music,
 Renames files to remove Cyrillic symbols.\
 Provides a list of extensions and files in each category.\
 ### Example
-After running the script:\
+After running the script:
 
 List of extension: ['.JPEG', '.PNG', '.JPG', '.SVG', ...]\
 Files in Documents: ['document1', 'document2', ...]\
 Files in Images: ['image1', 'image2', ...]\
 Files in Videos: ['video1', 'video2', ...]\
 Files in Music: ['music1', 'music2', ...]\
-Files in Unknown: ['unknown1', 'unknown2', ...]\
+Files in Unknown: ['unknown1', 'unknown2', ...]
 
 
 Author\
