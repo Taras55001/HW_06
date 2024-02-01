@@ -16,14 +16,16 @@ Make sure you have Python installed on your machine. You can download it from [p
 You can install it directly from GitHub:
 
 ```bash
-pip install git+https://github.com/Taras55001/HW_06```
+pip install git+https://github.com/Taras55001/HW_06
+```
 
 
 ### Usage
 Run the script by providing the path to the folder you want to sort:
 
 ```bash
-clean-folder /path/to/your/folder````
+clean-folder /path/to/your/folder
+````
 
 Replace /path/to/your/folder with the actual path to the folder you want to organize.
 
