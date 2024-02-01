@@ -15,13 +15,15 @@ Make sure you have Python installed on your machine. You can download it from [p
 
 You can install it directly from GitHub:
 
-`pip install git+https://github.com/Taras55001/HW_06`
+```bash
+pip install git+https://github.com/Taras55001/HW_06```
 
 
 ### Usage
 Run the script by providing the path to the folder you want to sort:
 
-`clean-folder /path/to/your/folder`
+```bash
+clean-folder /path/to/your/folder````
 
 Replace /path/to/your/folder with the actual path to the folder you want to organize.
 
@@ -41,6 +43,6 @@ Files in Unknown: ['unknown1', 'unknown2', ...]
 
 
 Author\
-Taras5500\
+Taras55001\
 License\
 MIT License
